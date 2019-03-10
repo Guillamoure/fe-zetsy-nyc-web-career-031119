@@ -47,4 +47,6 @@ p {
   border: 5px #5f6d81 solid;
   padding: 1px;
 }
-#press
+#press img:hover {
+  border: 5px #11FF56;
+}
