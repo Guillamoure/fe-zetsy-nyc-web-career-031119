@@ -44,6 +44,10 @@ header a {
   text-decoration: none;
 }
 
+header a:hover {
+  color: #4ab5ef;
+}
+
 #featured a {
   color: #8e345f;
   text-decoration: none;
