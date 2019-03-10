@@ -39,6 +39,11 @@ p {
 
 /*/////////// Section Styles ///////////*/
 
+header a {
+  color: #ccc;
+  text_decoration: none
+}
+
 #featured a {
   color: #8e345f;
   text-decoration: none;
