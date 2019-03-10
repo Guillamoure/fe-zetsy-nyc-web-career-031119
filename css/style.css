@@ -38,3 +38,12 @@ p {
   color: #8e345f;
   text-decoration: none;
 }
+
+#featured a:hover {
+  text-decoration: underline;
+}
+
+#press img {
+  border: 5px #5f6d81 solid;
+  padding: 1px;
+}
