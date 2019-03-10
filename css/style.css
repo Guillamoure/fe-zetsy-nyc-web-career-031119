@@ -41,7 +41,7 @@ p {
 
 header a {
   color: #ccc;
-  text_decoration: none
+  text-decoration: none;
 }
 
 #featured a {
