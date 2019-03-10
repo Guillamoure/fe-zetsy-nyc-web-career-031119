@@ -48,5 +48,10 @@ p {
   padding: 1px;
 }
 #press img:hover {
-  border: 5px #11FF56;
+  border: 5px #11FF56 solid;
+}
+
+footer {
+  text-align: right;
+  background: #fff;
 }
